@@ -1,0 +1,99 @@
+# Translation of Plugins - Simple Revisions Delete - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Simple Revisions Delete - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-12 21:02:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Simple Revisions Delete - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Brice CAPOBIANCO"
+msgstr "Brice CAPOBIANCO"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://b-website.com/"
+msgstr "http://b-website.com/"
+
+#. Plugin Name of the plugin
+msgid "Simple Revisions Delete by bweb"
+msgstr "Simple Revisions Delete par bweb"
+
+#: wp-simple-revisions-delete.php:63
+msgid "Donate to this plugin &#187;"
+msgstr "Faire un don à cette extension &#187;"
+
+#: wp-simple-revisions-delete.php:62
+msgid "More b*web Plugins"
+msgstr "Plus de plugins b*web"
+
+#: wp-simple-revisions-delete-single.php:78
+msgid "There is no revisions for this post"
+msgstr "Il n'y a pas de révision pour ce contenu"
+
+#: wp-simple-revisions-delete-single.php:64
+msgid "Purged"
+msgstr "Purgé"
+
+#: wp-simple-revisions-delete-gutenberg.php:32
+#: wp-simple-revisions-delete-single.php:31
+msgid "Purge"
+msgstr "Purger"
+
+#: wp-simple-revisions-delete-gutenberg.php:31
+#: wp-simple-revisions-delete-single.php:30
+msgid "Purging"
+msgstr "Purge"
+
+#: wp-simple-revisions-delete-gutenberg.php:31
+#: wp-simple-revisions-delete-once.php:60
+#: wp-simple-revisions-delete-single.php:30
+msgid "Something went wrong"
+msgstr "Quelque chose s’est mal passé"
+
+#: wp-simple-revisions-delete-once.php:54
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: wp-simple-revisions-delete-once.php:43
+#: wp-simple-revisions-delete-once.php:66
+#: wp-simple-revisions-delete-single.php:57
+msgid "You can't do this..."
+msgstr "Vous ne pouvez pas faire ça..."
+
+#: wp-simple-revisions-delete-once.php:22
+msgid "Delete"
+msgstr "Supprimer"
+
+#: wp-simple-revisions-delete-functions.php:112
+msgid "Revisions are deactivated on this site, the plugin \"Simple Revisions Delete\" has no reason to be installed."
+msgstr "Les révisions sont désactivées sur ce site, l'extention \"Simple Revisions Delete\" n'a pas de raison d'être installée."
+
+#: wp-simple-revisions-delete-functions.php:104
+msgid "Dismiss"
+msgstr "Ignorer"
+
+#: wp-simple-revisions-delete-bulk.php:99
+msgid "No revision to delete"
+msgstr "Aucune révision à supprimer"
+
+#: wp-simple-revisions-delete-bulk.php:85
+msgid "1 revision has been deleted"
+msgid_plural "%s revisions have been deleted"
+msgstr[0] "1 révision a été supprimée"
+msgstr[1] "%s révisions ont été supprimées"
+
+#: wp-simple-revisions-delete-bulk.php:65
+msgid "Note: You can only purge revisions for the posts you're allowed to delete"
+msgstr "Note : Vous pouvez seulement purger les révisions des postes que vous êtes autorisé à supprimer."
+
+#: wp-simple-revisions-delete-gutenberg.php:38
+#: wp-simple-revisions-delete-bulk.php:28
+#: wp-simple-revisions-delete-single.php:37
+msgid "Purge revisions"
+msgstr "Purger les révisions"

@@ -1,0 +1,11 @@
+.d-none {
+    display:none;
+}
+
+.special .inside{
+    display: flex;
+}
+
+.w20{
+    width:100%;
+}

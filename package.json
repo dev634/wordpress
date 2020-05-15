@@ -1,0 +1,16 @@
+{
+  "name": "wp-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "onchange": "^6.1.1",
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "prettier": "onchange './themes/activar/js/admin.js' -- prettier --write {{changed}}"
+  },
+  "author": "",
+  "license": "ISC"
+}
